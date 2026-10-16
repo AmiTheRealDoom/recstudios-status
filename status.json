@@ -1,0 +1,12 @@
+{
+  "overall": "operational",
+  "message": "",
+  "eta": "",
+  "checkedAt": "2026-10-16T12:00:00Z",
+  "components": [
+    { "id": "website", "name": "Website", "status": "operational", "latencyMs": null },
+    { "id": "revium", "name": "Revium game servers", "status": "operational", "latencyMs": null },
+    { "id": "database", "name": "Database", "status": "operational", "latencyMs": null },
+    { "id": "accounts", "name": "Accounts and login", "status": "operational", "latencyMs": null }
+  ]
+}
